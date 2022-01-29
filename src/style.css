@@ -1,10 +1,19 @@
 body {
   background: #f8e8a6;
   display: block;
+  margin: 10px;
 }
 h1,
-h2,
-h3,
 p {
   text-align: center;
+}
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 8px;
+  max-width: 100%;
+}
+div a {
+  margin: 10px;
+  color: green;
 }
