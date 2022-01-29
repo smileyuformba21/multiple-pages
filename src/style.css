@@ -1,3 +1,10 @@
 body {
-  border: 1px solid;
+  background: #f8e8a6;
+  display: block;
+}
+h1,
+h2,
+h3,
+p {
+  text-align: center;
 }
